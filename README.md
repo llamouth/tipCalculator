@@ -1,20 +1,39 @@
-Basic Tip Calculator
-This is a basic tip calculator web application built using HTML, CSS, and JavaScript. It allows users to calculate the tip amount based on the bill total and chosen tip percentage.
+# Tip Calculator
+A simple tip calculator web application that allows users to calculate the total amount including tips based on the bill amount and tip percentage entered.
 
-Features
-Input Field: Enter the total bill amount.
-Tip Percentage Selection: Choose the desired tip percentage (10%, 15%, 20%, or custom).
-Calculate Button: Click to calculate the tip amount.
-Display Total Amount: Show the total bill amount including the tip.
+# Usage
+1. Clone or download the repository.
+   
+    ```bash
+        git clone https://github.com/your-username/tip-calculator.git
+2. Open the index.html file in your web browser.
 
-Technologies Used
-HTML: Structure of the web page.
-CSS: Styling the layout and elements.
-JavaScript: Logic for calculating the tip amount.
+# Features
+- **Bill Amount Input:** Enter the bill amount in the designated input field.
+- **Tip Percentage Input:** Enter the tip percentage you want to apply.
+- **Calculate Button:** Click the "Calculate" button to compute the total amount.
+- **Total Display:** View the calculated total amount below the "Total" label.
 
-Usage
-Clone this repository to your local machine.
-Open the index.html file in a web browser.
-Enter the bill amount and select the tip percentage.
-Click the "Calculate" button to see the tip amount.
-Optionally, adjust the tip percentage or bill amount for different results.
+# Preview
+![Tip Calculator](Tip-Calculator-Picture.png)
+
+# How to Contribute
+If you'd like to contribute to the development of this tip calculator, follow these steps:
+
+# Fork the repository.
+1. Create a new branch
+    ```bash
+    git checkout -b feature/new-feature.
+2. Make your changes.
+
+3. Commit your changes 
+    ```bash
+    git commit -m 'Add new feature'
+4. Push to the branch 
+    ```bash
+    git push origin feature/new-feature
+5. Create a new Pull Request.
+
+
+# Thank You 🌟
+Thank you for checking out the Tip Calculator! If you have any suggestions, feedback, or improvements, feel free to contribute. Your support is greatly appreciated. Happy calculating! 
