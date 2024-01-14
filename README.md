@@ -20,19 +20,19 @@ A simple tip calculator web application that allows users to calculate the total
 # How to Contribute
 If you'd like to contribute to the development of this tip calculator, follow these steps:
 
-# Fork the repository.
-1. Create a new branch
+1.  Fork the repository.
+2. Create a new branch
     ```bash
     git checkout -b feature/new-feature.
-2. Make your changes.
+3. Make your changes.
 
-3. Commit your changes 
+4. Commit your changes 
     ```bash
     git commit -m 'Add new feature'
-4. Push to the branch 
+5. Push to the branch 
     ```bash
     git push origin feature/new-feature
-5. Create a new Pull Request.
+6. Create a new Pull Request.
 
 
 # Thank You 🌟
