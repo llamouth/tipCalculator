@@ -2,11 +2,12 @@
 A simple tip calculator web application that allows users to calculate the total amount including tips based on the bill amount and tip percentage entered.
 
 # Usage
-1. Clone or download the repository.
+1. Fork the repository
+2. Clone or download the repository.
    
     ```bash
         git clone https://github.com/your-username/tip-calculator.git
-2. Open the index.html file in your web browser.
+3. Open the index.html file in your web browser.
 
 # Features
 - **Bill Amount Input:** Enter the bill amount in the designated input field.
